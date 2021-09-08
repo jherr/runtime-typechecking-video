@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@types/node": "^16.7.10",
+    "joi-to-typescript": "^2.1.1",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.2"
+  },
+  "dependencies": {
+    "joi": "^17.4.2"
+  }
+}
